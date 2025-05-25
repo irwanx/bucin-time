@@ -1,8 +1,15 @@
 # 💌 Bucin Time - React & Next.js
 
+![GitHub stars](https://img.shields.io/github/stars/irwanx/bucin-time?style=social)
+![GitHub forks](https://img.shields.io/github/forks/irwanx/bucin-time?style=social)
+![Last commit](https://img.shields.io/github/last-commit/irwanx/bucin-time)
+![License](https://img.shields.io/github/license/irwanx/bucin-time)
+![Views](https://visitor-badge.laobi.icu/badge?page_id=irwanx.bucin-time)
+
 Proyek ini adalah aplikasi kartu ucapan romantis berbasis web yang dibuat menggunakan **Next.js**, **React**, **Tailwind CSS**, dan **TypeScript**. Cocok untuk mengirim ucapan cinta, ulang tahun, atau pesan manis secara online.
 
 ---
+
 
 ## ✨ Fitur Utama
 
@@ -44,8 +51,8 @@ npm install -g pnpm
 ### 2. Kloning Repository
 
 ```bash
-git clone https://github.com/namapengguna/romantic-react-greeting.git
-cd romantic-react-greeting
+git clone https://github.com/namapengguna/bucin-time.git
+cd bucin-time
 ```
 
 ### 3. Menginstal Dependensi
