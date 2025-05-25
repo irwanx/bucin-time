@@ -51,7 +51,7 @@ npm install -g pnpm
 ### 2. Kloning Repository
 
 ```bash
-git clone https://github.com/namapengguna/bucin-time.git
+git clone https://github.com/irwanx/bucin-time.git
 cd bucin-time
 ```
 
